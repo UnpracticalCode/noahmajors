@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Time Student and Programming Freelancer
 --------------------------------------------
 
-I have been developing programs over a vast array of languages for 8 years, primarily python when available. I have a strong suite for exploiting games, engineering cheats, and finding numerous backdoors.
+I have been developing programs over a vast array of languages for 8 years, primarily python when available. I have a strong suite for exploiting games, engineering cheats, making malware,and finding numerous backdoors.
 
 * 🌍  I'm based in Idaho
 * 🧠  I'm learning how to effectively view source code on multiple different programs
